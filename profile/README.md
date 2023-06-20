@@ -1,7 +1,5 @@
 # Keia
 
-The Next Generation Music Bot
-
 ## Contact
 
 If you need to contact us, we prefer [**Discord**](https://keia.one/discord). However, you can always contact us via email:
